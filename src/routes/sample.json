@@ -1,0 +1,19 @@
+[
+    { 
+        "id": 1,
+        "Nombre pokemon": "Jigglypuff",
+        "informacion" : "Cuando le tiemblan sus redondos y adorables ojos, entona una melodía agradable y misteriosa con la que duerme a sus enemigos.",
+        "Categoria" : "Globo",
+        "Altura" : "0,5 m",
+        "Tipo" : "Hada"
+    
+    },
+    { 
+        "id": 2,
+        "Nombre pokemon": "Clefairy",
+        "informacion" : "En las noches de luna llena, Clefairy de diversos lugares se reúnen para bailar bajo su luz, la cual los hace flotar.",
+        "Categoria" : "Hada",
+        "Altura" : "0,6 m",
+        "Tipo" : "Hada"
+    }
+]
